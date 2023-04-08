@@ -10,4 +10,7 @@ The downtown and riverfront districts in Owensboro, KY, have been in constant ch
 
 [High-Resolution PDF](OboroRiverFrontChanges.pdf)     
 
-Information about the author and data sources used in the analysis.
+### What is the floating platform in the foreground?
+![Owensboro Convention Center](OboroConvCenter.jpg)
+Image obtained at owensborocenter.com
+*The Owensboro Convention center is a uniquely designed building with extreme relief due to the shape of the roof. The surveys conducted by KYFromAbove are aerial, and the LIDAR data they collect is from a vertical perspective. Thus, buildings with no discernible external features, like the Owensboro Convention Center, can appear as floating platforms in a point cloud, which is a phenomenon I wanted to include in my map.*
